@@ -1,0 +1,6 @@
+How to install
+--------------
+Go down to the bottom right on the main repo and look for releases.
+Download the newest release, or whichever one you like and run the program.
+No need for further setup.
+If you want to have a shortcut on your homescreen go to the file in your downloads and send to shortcut.
